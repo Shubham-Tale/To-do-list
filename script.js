@@ -37,3 +37,5 @@ function showTask(){
 listContainer.innerHTML=localStorage.getItem("data");
 }
 showTask()
+
+console.log('hi there')
